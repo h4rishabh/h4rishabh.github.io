@@ -133,8 +133,8 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/tcs_logo.jpg" 
     date: "Oct 2022 - Today"
-    description: "Consultant @ <a href=\"https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fernst-young-logo%2F&psig=AOvVaw05WZXscA6CRnQSvHPqH7_o&ust=1674816531131000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICp7vSH5fwCFQAAAAAdAAAAABAE" target=\"_blank\">EY</a>"
-  - image: "/img/timeline/tcs_logo.jpg" 
+    description: "Consultant @ <a href=\"https://www.ey.com" target=\"_blank\">EY</a>"
+  - image: "/img/timeline/ey-logo.png" 
     date: "June 2018 - Sep 2021"
     description: "Java Developer @ <a href=\"https://en.wikipedia.org/wiki/Tata_Consultancy_Services\" target=\"_blank\">Tata Consultancy Services</a>"
   - image: "/img/timeline/SimpleWay2Code.jpg"
